@@ -21,7 +21,7 @@ Follow these steps to install and use our chess engine with Arena GUI:
    - Visit the Arena GUI website at [http://www.playwitharena.de/](http://www.playwitharena.de/).
    - Download the latest version of Arena GUI suitable for your operating system (Windows, macOS, or Linux).
    - Follow the installation instructions provided on the Arena GUI website to complete the installation.
-3. **Integrate Our Chess Engine with Arena:**
+3. **Integrate My Chess Engine with Arena:**
 
    - Open Arena GUI after the installation is complete.
 
