@@ -4,7 +4,7 @@ This is a fully functional Chess Engine implemented in the C programming languag
 
 # Chess Engine Integration with Arena GUI
 
-Congratulations on choosing to use our chess engine! With this guide, you'll be able to seamlessly integrate our chess engine into the Arena GUI for a fantastic chess-playing experience.
+Congratulations on choosing to use my chess engine! With this guide, you'll be able to seamlessly integrate our chess engine into the Arena GUI for a fantastic chess-playing experience.
 
 ## Prerequisites
 
@@ -39,6 +39,6 @@ Follow these steps to install and use our chess engine with Arena GUI:
 
 ## Feedback 
 
-If you encounter any issues or have any feedback regarding our chess engine or its integration with Arena GUI, please feel free to contact at rs22mac2r22@student.nitw.ac.in.
+If you encounter any issues or have any feedback regarding my chess engine or its integration with Arena GUI, please feel free to contact at rs22mac2r22@student.nitw.ac.in.
 
 Happy playing and good luck in your chess games!
